@@ -1,16 +1,31 @@
-## Hi there 👋
-
-<!--
-**lucianoAguilarWD/lucianoAguilarWD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/lucianoAguilarWD/lucianoAguilarWD/blob/main/bannerL.jpg">
+<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<header align="left">
+    <h1 align="left">Hola a todos/as <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    <h3 align="left">
+        <ul>
+            <li>🔭 Actualmente estoy cursando el último cuatrimestre de la Tecnicatura Universitaria en Web (UNSL)</li>
+            <li>👨‍🎓 Estoy aprendiendo Docker en este momento</li>
+            <li>💬 Pregúntame sobre lo que quieras</li>
+            <li>📫 Cómo contactarme: lucianoaguilarwebdev@gmail.com</li>
+        </ul>
+    </h3>
+</header>
+<div align="center">
+    <h2 align="center">Tecnologías usadas</h2>
+    <div align="center">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="80">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="80">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JS" width="80">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="80">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="SQL" width="80">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="80">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="80">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="80">
+    </div>
+</div>
+<footer align="center">
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoAguilarWD&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
+    </p>
+</footer>
