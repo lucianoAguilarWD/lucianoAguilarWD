@@ -22,7 +22,7 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="SQL" width="50">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="50">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="50">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="50">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg" alt="Linux" width="50">
     </div>
 </div>
 <hr>
