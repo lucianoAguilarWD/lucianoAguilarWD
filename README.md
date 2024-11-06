@@ -9,6 +9,7 @@
             <li>👨‍🎓 Estoy aprendiendo Docker en este momento</li>
             <li>💬 Pregúntame sobre lo que quieras</li>
             <li>📫 Cómo contactarme: lucianoaguilarwebdev@gmail.com</li>
+            <li>📄 <a href="https://github.com/lucianoAguilarWD/lucianoAguilarWD/blob/main/Aguilar Luciano.pdf" target="_blank">Mi CV</a></li>
         </ul>
     </h3>
 </header>
