@@ -5,8 +5,7 @@
 <header align="left">
     <h3 align="left">
         <ul>
-            <li>🔭 Actualmente estoy cursando el último cuatrimestre de la Tecnicatura Universitaria en Web (UNSL)</li>
-            <li>👨‍🎓 Estoy aprendiendo Docker en este momento</li>
+            <li>👨‍🎓 Estoy aprendiendo Ingles en este momento</li>
             <li>💬 Pregúntame sobre lo que quieras</li>
             <li>📫 Cómo contactarme: lucianoaguilarwebdev@gmail.com</li>
             <li>📄 <a href="https://github.com/lucianoAguilarWD/lucianoAguilarWD/blob/main/Aguilar Luciano.pdf" target="_blank">Mi CV</a></li>
@@ -14,8 +13,8 @@
     </h3>
 </header>
 <hr>
-<div align="center">
-    <div align="center">
+<div align="left">
+    <div align="left">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JS" width="50">
@@ -27,6 +26,7 @@
     </div>
 </div>
 <hr>
+
 <footer align="center">
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoAguilarWD&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
