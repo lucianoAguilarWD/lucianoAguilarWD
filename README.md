@@ -1,6 +1,6 @@
 <h1 align="left">Hola a todos/as <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://github.com/lucianoAguilarWD/lucianoAguilarWD/blob/main/bannerL.jpg">
-<img align="right" height="270px" alt="guy" width="270" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoAguilarWD&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
 <hr>
 <header align="left">
     <h3 align="left">
@@ -29,6 +29,6 @@
 
 <footer align="center">
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoAguilarWD&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
+        <img alt="guy" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
     </p>
 </footer>
