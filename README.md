@@ -24,7 +24,7 @@
 </div>
 </header>
 <hr>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoAguilarWD&layout=compact&hide=css&theme=radical" alt="Intellij" height="260">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoAguilarWD&layout=compact&hide=css&theme=radical" alt="Intellij" height="220">
 <footer align="left">
     <p align="left">
         <img alt="guy" height="270" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
